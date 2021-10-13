@@ -1,6 +1,11 @@
-xhr.readyState
-0: unsend
-1: file is open
-2: recived the headers info of the request
-3: loading the document or file
-4: done
+### Text Explorer - JavaScript Project
+
+Live Link: https://textexplorer.netlify.app/
+
+This project shows various text exploration on the selected files:
+- Word Count
+- Document length
+- Most and least common words
+- Search a word occurance with highlight
+
+Project was built following a youtube tutorial.
